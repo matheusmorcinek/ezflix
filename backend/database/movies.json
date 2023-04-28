@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "genres": [
+            "Drama"
+        ],
+        "rating": 9.3,
+        "poster": "https://www.example.com/poster/shawshank_redemption.jpg"
+    },
+    {
+        "id": 2,
+        "title": "The Godfather",
+        "year": 1972,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "rating": 9.2,
+        "poster": "https://www.example.com/poster/godfather.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Godfather: Part II",
+        "year": 1974,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "rating": 9.0,
+        "poster": "https://www.example.com/poster/godfather_2.jpg"
+    },
+    {
+        "id": 4,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "rating": 9.0,
+        "poster": "https://www.example.com/poster/dark_knight.jpg"
+    },
+    {
+        "id": 5,
+        "title": "12 Angry Men",
+        "year": 1957,
+        "genres": [
+            "Drama"
+        ],
+        "rating": 8.9,
+        "poster": "https://www.example.com/poster/12_angry_men.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Schindler's List",
+        "year": 1993,
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "rating": 8.9,
+        "poster": "https://www.example.com/poster/schindlers_list.jpg"
+    },
+    {
+        "id": 7,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "rating": 8.9,
+        "poster": "https://www.example.com/poster/lotr_return_of_the_king.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "rating": 8.9,
+        "poster": "https://www.example.com/poster/pulp_fiction.jpg"
+    },
+    {
+        "id": 9,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "rating": 8.8,
+        "poster": "https://www.example.com/poster/lotr_fellowship_of_the_ring.jpg"
+    },
+    {
+        "id": 10,
+        "title": "The Good, the Bad and the Ugly",
+        "year": 1966,
+        "genres": [
+            "Western"
+        ],
+        "rating": 8.8,
+        "poster": "https://www.example.com/poster/good_bad_ugly.jpg"
+    }
+]
